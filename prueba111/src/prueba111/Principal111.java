@@ -5,7 +5,7 @@ public class Principal111 {
 		return a * a;
 	}
 	int sumar (int a, int b) {
-		return a * b * 2;
+		return a + b;
 	}
     int dividir (int a, int b) {
     	return a / b;
