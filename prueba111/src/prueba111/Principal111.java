@@ -1,6 +1,9 @@
 package prueba111;
 
 public class Principal111 {
+	int cuadrado (int a, int b) {
+		return a * a;
+	}
 	int sumar (int a, int b) {
 		return a * b * 2;
 	}
