@@ -2,7 +2,7 @@ package prueba111;
 
 public class Principal111 {
 	int sumar (int a, int b) {
-		return a + b;
+		return a * b * 2;
 	}
     int dividir (int a, int b) {
     	return a / b;
