@@ -10,6 +10,9 @@ public class Principal111 {
     int multi (int a, int b) {
     	return a * b;
     }
+    int restar (int a, int b) {
+        return a - b;	
+    }
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo Actual");
 		System.out.println("Adiso Mundo Actual");
