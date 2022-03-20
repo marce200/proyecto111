@@ -26,5 +26,6 @@ public class Principal111 {
 		System.out.println("ambio del usu2 despues de rama usu1");	 
 		System.out.println("Cambio despues de fusion rama con master");
 		System.out.println("Mas cambios en master por usu2");
+		System.out.println("Otro cambio mster despues de tag");
 	}
 	}
